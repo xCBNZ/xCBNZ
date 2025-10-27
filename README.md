@@ -1,16 +1,18 @@
-## Hi there 👋
+## ¿Que Bola?
 
-<!--
-**xCBNZ/xCBNZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m xCBNZ, a design-oriented engineer based in Barcelona, Spain.
+I love turning ideas that pop into my mind into real projects ✨
 
-Here are some ideas to get you started:
+Whenever inspiration hits — I start coding 😜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, my main stack is HTML, CSS, and JavaScript, but I’m currently learning React, Tailwind, TypeScript, and Next.js.
+
+This repo is where I share my progress, growth, and projects — and hopefully, collaborate with others along the way 💪
+
+A few facts about me:
+- 🇩🇪🇨🇺 German/Cuban
+- 🎶 I make music
+- 🥦 Vegetarian
+- 💜 Favorite color: purple
+- ☕ Coffee is my fuel
+- 🔄 I can solve a Rubik’s Cube in under 20 seconds 😄
