@@ -1,6 +1,6 @@
 ## ¿Que Bola?
 
-I’m xCBNZ, a design-oriented engineer based in Barcelona, Spain.
+I’m xCBNZ, a ITI Student  based in Barcelona, Spain.
 I love turning ideas that pop into my mind into real projects ✨
 
 Whenever inspiration hits — I start coding 😜
