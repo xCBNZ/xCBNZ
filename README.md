@@ -5,7 +5,7 @@ I love turning ideas that pop into my mind into real projects ✨
 
 Whenever inspiration hits — I start coding 😜
 
-Right now, my main stack is HTML, CSS, and JavaScript, but I’m currently learning React, Tailwind, TypeScript, and Next.js.
+Right now, im trying to improve my C skills.
 
 This repo is where I share my progress, growth, and projects and hopefully, collaborate with others along the way 💪
 
