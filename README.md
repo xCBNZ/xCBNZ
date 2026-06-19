@@ -5,7 +5,7 @@ I love turning ideas that pop into my mind into real projects ✨
 
 Whenever inspiration hits — I start coding 😜
 
-Right now, im trying to improve my C skills.
+Right now, im trying to improve my Java skills.
 
 This repo is where I share my progress, growth, and projects and hopefully, collaborate with others along the way 💪
 
